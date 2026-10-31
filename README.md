@@ -23,10 +23,13 @@ Hyunwook Kim¹, Keith Wilkinson², Renjith Prasad¹, Aahan Rathod¹, Chathurangi
 
 ## Conference Poster
 
-[![Conference Poster](poster.png)](poster.png)
+[![Conference Poster](poster.png)](./Cyberattack_Detection_Poster_v2.pdf)
 
-- **Presentation Source:** [`Cyberattack_Detection_Poster_v2.odp`](./Cyberattack_Detection_Poster_v2.odp)
-- **Vector PDF:** [`Cyberattack_Detection_Poster_v2.pdf`](./Cyberattack_Detection_Poster_v2.pdf)
+- **Print PDF (30 × 40 inches):** [`Cyberattack_Detection_Poster_v2.pdf`](./Cyberattack_Detection_Poster_v2.pdf)
+- **Editable PowerPoint:** [`Cyberattack_Detection_Poster_v2.pptx`](./Cyberattack_Detection_Poster_v2.pptx)
+- **Editable OpenDocument:** [`Cyberattack_Detection_Poster_v2.odp`](./Cyberattack_Detection_Poster_v2.odp)
+
+Updated 31 October 2026 with larger, vertically stacked QR codes, labels to their right, and the SFPUC and university logos. Both QR destinations were verified from the print PDF.
 
 ---
 
