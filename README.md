@@ -29,7 +29,7 @@ Hyunwook Kim¹, Keith Wilkinson², Renjith Prasad¹, Aahan Rathod¹, Chathurangi
 - **Editable PowerPoint:** [`Cyberattack_Detection_Poster_v2.pptx`](./Cyberattack_Detection_Poster_v2.pptx)
 - **Editable OpenDocument:** [`Cyberattack_Detection_Poster_v2.odp`](./Cyberattack_Detection_Poster_v2.odp)
 
-Updated 31 October 2026 with larger, vertically stacked QR codes, labels to their right, and the SFPUC and university logos. Both QR destinations were verified from the print PDF. The inapplicable NSF acknowledgment and logo have been removed.
+Updated 31 October 2026 with larger, vertically stacked QR codes, labels to their right, and the SFPUC and university logos. Both QR destinations were verified from the print PDF. The inapplicable NSF acknowledgment and logo have been removed. The four audit screening criteria are explicitly labeled; motivation/contribution and limitations/next steps use bullets, with a consistent body-text size hierarchy.
 
 ---
 
