@@ -26,6 +26,7 @@ Hyunwook Kim¹, Keith Wilkinson², Renjith Prasad¹, Aahan Rathod¹, Chathurangi
 [![Conference Poster](poster.png)](./Cyberattack_Detection_Poster_v2.pdf)
 
 - **Print PDF (30 × 40 inches):** [`Cyberattack_Detection_Poster_v2.pdf`](./Cyberattack_Detection_Poster_v2.pdf)
+- **36 × 48 inch print sheet:** [`Poster_36x48_Print_Sheet_Trim_to_30x40.pdf`](./Poster_36x48_Print_Sheet_Trim_to_30x40.pdf). Print at 100% in portrait orientation; trim 6 inches from the right and 8 inches from the bottom to retain the 30 × 40 inch poster.
 - **Editable PowerPoint:** [`Cyberattack_Detection_Poster_v2.pptx`](./Cyberattack_Detection_Poster_v2.pptx)
 - **Editable OpenDocument:** [`Cyberattack_Detection_Poster_v2.odp`](./Cyberattack_Detection_Poster_v2.odp)
 
